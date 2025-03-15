@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is HeChangjia
+- 🔭 I’m currently studying on NJUPT(双非😧)
+- 🌱 I’m currently learning DeepLearing and probablity and python.
+- 🤔 I’m looking for help with Linux and CS-knowledge.
 
 <!--
 **hechangjia/hechangjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
