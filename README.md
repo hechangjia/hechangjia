@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning DeepLearing and probablity and python.
 - 🤔 I’m looking for help with Linux and CS-knowledge.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hechangjia)](https://github.com/hechangjia/github-readme-stats)
+
 <!--
 **hechangjia/hechangjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
