@@ -5,6 +5,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hechangjia)](https://github.com/hechangjia/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hechangjia&layout=compact)](https://github.com/hechangjia/github-readme-stats)
+
+![HeChangjia's GitHub stats](https://github-readme-stats.vercel.app/api?username=hechangjia&show_icons=true&theme=tokyonight)
+
+
+
 <!--
 **hechangjia/hechangjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
