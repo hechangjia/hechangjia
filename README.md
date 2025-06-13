@@ -1,4 +1,6 @@
 ## Hi there 👋 My name is HeChangjia
+![](https://komarev.com/ghpvc/?username=hechangjia&color=green)
+
 - 🔭 I’m currently studying on NJUPT(双非😧)
 - 🌱 I’m currently learning DeepLearing and probablity and python.
 - 🤔 I’m looking for help with Linux and CS-knowledge.
