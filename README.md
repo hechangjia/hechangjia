@@ -1,4 +1,11 @@
 ## Hi there 👋 My name is HeChangjia
+
+**签名：**
+![signature_贺昌嘉.svg](https://moderation.xin/file/2025/signature_贺昌嘉.svg)
+
+**Signature:**
+![signature_BruceChia.svg](https://moderation.xin/file/2025/signature_BruceChia.svg)
+
 ![](https://komarev.com/ghpvc/?username=hechangjia&color=green)
 ![](https://komarev.com/ghpvc/?username=hechangjia&abbreviated=true)
 - 🔭 I’m currently studying on NJUPT(双非😧)
