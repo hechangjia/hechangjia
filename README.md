@@ -6,6 +6,11 @@
 ![signature_贺昌嘉.gif](https://moderation.xin/file/2025/1763817077286_signature_贺昌嘉.gif)
 
 **Signature:**
+![signature_BruceChia_animated.svg](https://moderation.xin/file/2025/1763817272405_signature_BruceChia_animated.svg)
+
+![signature_BruceChia.gif](https://moderation.xin/file/2025/1763817294171_signature_BruceChia.gif)
+
+**Qlog:**
 ![signature_Qlog_animated.svg](https://moderation.xin/file/2025/1763817079793_signature_Qlog_animated.svg)
 
 ![signature_Qlog.gif](https://moderation.xin/file/2025/1763817076318_signature_Qlog.gif)
