@@ -8,7 +8,8 @@
 **Signature:**
 ![signature_BruceChia_animated.svg](https://moderation.xin/file/2025/1763817272405_signature_BruceChia_animated.svg)
 
-![signature_BruceChia.gif](https://moderation.xin/file/2025/1763817294171_signature_BruceChia.gif)
+![signature_BruceChia (1).gif](https://moderation.xin/file/2025/1763817793884_signature_BruceChia__1_.gif)
+<img src="https://moderation.xin/file/2025/1763817793884_signature_BruceChia__1_.gif" alt="signature_BruceChia (1).gif" width=100% />
 
 **Qlog:**
 ![signature_Qlog_animated.svg](https://moderation.xin/file/2025/1763817079793_signature_Qlog_animated.svg)
