@@ -1,21 +1,5 @@
 ## Hi there 👋 My name is HeChangjia
 
-**签名：**
-![signature_贺昌嘉_animated.svg](https://moderation.xin/file/2025/1763817081513_signature_贺昌嘉_animated.svg)
-
-![signature_贺昌嘉.gif](https://moderation.xin/file/2025/1763817077286_signature_贺昌嘉.gif)
-
-**Signature:**
-![signature_BruceChia_animated.svg](https://moderation.xin/file/2025/1763817272405_signature_BruceChia_animated.svg)
-
-![signature_BruceChia (1).gif](https://moderation.xin/file/2025/1763817793884_signature_BruceChia__1_.gif)
-<img src="https://moderation.xin/file/2025/1763817793884_signature_BruceChia__1_.gif" alt="signature_BruceChia (1).gif" width=100% />
-
-**Qlog:**
-![signature_Qlog_animated.svg](https://moderation.xin/file/2025/1763817079793_signature_Qlog_animated.svg)
-
-![signature_Qlog.gif](https://moderation.xin/file/2025/1763817076318_signature_Qlog.gif)
-
 ![](https://komarev.com/ghpvc/?username=hechangjia&color=green)
 ![](https://komarev.com/ghpvc/?username=hechangjia&abbreviated=true)
 - 🔭 I’m currently studying on NJUPT(双非😧)
